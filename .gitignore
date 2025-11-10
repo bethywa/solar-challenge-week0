@@ -1,0 +1,24 @@
+
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv
+venv/
+.env/
+*.sqlite3
+*.egg-info/
+
+# Jupyter / Notebooks
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+
+# Data
+data/
+*.csv
+*.xlsx
+
+# VS Code
+.vscode/
