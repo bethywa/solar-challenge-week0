@@ -1,9 +1,10 @@
-# Solar Challenge Week 0
+# Solar Challenge Week 0 - AI Project
+
+## Project Overview
+Analysis of solar energy data for Benin and Sierra Leone with AI preparation.
 
 ## Setup
-
-1. Clone the repo
 ```bash
-git clone https://github.com/yourusername/solar-challenge-week0.git
-cd solar-challenge-week0
-
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
+pip install -r requirements.txt
