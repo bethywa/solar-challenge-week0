@@ -27,15 +27,11 @@ Successfully merged setup branch into `main` via pull request.
 
 **Key Steps:**
 1. Created branch `eda-<country>` for each dataset.  
-2. Loaded raw data and checked for missing values using:
-   ```python
+2. Loaded raw data and checked for missing values 
 3. Identified and handled outliers using Z-scores.
-
 4. Cleaned data by imputing or dropping invalid records.
-
 5. Exported cleaned datasets as data/<country>_clean.csv (ignored by Git).
-
-6. Conducted time-series and correlation analysis using plots:
+git6. Conducted time-series and correlation analysis using plots:
 
    . GHI, DNI, DHI trends
 
