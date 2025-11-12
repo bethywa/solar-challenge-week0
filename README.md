@@ -29,7 +29,6 @@ Successfully merged setup branch into `main` via pull request.
 1. Created branch `eda-<country>` for each dataset.  
 2. Loaded raw data and checked for missing values using:
    ```python
-   df.describe(), df.isna().sum()
 3. Identified and handled outliers using Z-scores.
 
 4. Cleaned data by imputing or dropping invalid records.
